@@ -1,0 +1,68 @@
+<!doctype html> 
+<!-- Xerces_HomePage.html-->
+<!-- A website to use for Xerces band related things-->
+<!-- ======================================= -->
+
+<html>
+  <head>
+<link href="Assignment3style.css" type="text/css" rel="stylesheet" />
+    <title>  Xerces Homepage</title>
+  </head>
+
+  <body>
+ <h1> XERCES </h1>
+  <p>
+    Hello and welcome to the official website of Xerces !
+  </p>
+
+ <hr>
+
+  <h2> My Favorite Authors </h2>
+   <menu> <li>Stephen King </li> </menu>
+     <ol>
+      <li>It</li>
+      <li>The Dark Tower</li>
+      <li>Pet Sematary</li>
+    </ol>
+   <menu> <li>Darren Shan </li> </menu>
+     <ol>
+       <li>Demon Thief</li>
+       <li>Lord Loss</li>
+    </ol>
+   <menu> <li>Kashmira Sheth </li> </menu>
+     <ol>
+      <li>Boys Without Names</li>
+      <li>Keeping Corner</li>
+    </ol>
+
+   <h5> Click <a href="https://www.amazon.com/Novel-Stephen-King/dp/1982127791/ref=sr_1_1?crid=34A1HMUT78PLA&keywords=it+book+stephen+king&qid=1663519406&s=books&sprefix=it+boo%2Cstripbooks%2C99&sr=1-1" target="_blank"> here </a> to view IT by Stephen King on Amazon </h5>
+ 
+  <hr>
+
+  <h3> My Favorite foods</h3>
+   <table>
+      <tr> <td> <span style="color:blue"> Chicken Alfredo </span> </td>
+	    <td> 10/10 </td> <td> <img src="https://th.bing.com/th/id/OIP.vXV9LrGO8MbGsmMlLDEH3gHaLH?w=203&h=304&c=7&r=0&o=5&dpr=1.5&pid=1.7" width="200" alt="picture of Chicken Alfredo"> </td> </tr>
+      <tr> <td> <span style="color:purple">Steak </span> </td>
+	    <td> 9.5/10 </td> <td> <img src="https://th.bing.com/th/id/R.4c7b8b937b99cfdfe6dc07501f3b8ec8?rik=OzMIjoCKkfXYqQ&pid=ImgRaw&r=0" width="200" alt="picture of Steak"> </td> </tr>
+      <tr> <td> <span style="color:orange">Pizza </span> </td>
+	    <td> 9.0/10 </td> <td> <img src="https://th.bing.com/th/id/OIP.tdGOSZf60I43xzyYTW3e2AHaFF?w=269&h=184&c=7&r=0&o=5&dpr=1.5&pid=1.7" width="200" alt="picture of Pizza"> </td> </tr>
+      <tr> <td> <span style="color:green">Celery  </span> </td>
+	    <td> 8.5/10 </td> <td> <img src="https://th.bing.com/th/id/OIP.wr103hmDjYyHoApZ3Sn0owHaFx?w=239&h=186&c=7&r=0&o=5&dpr=1.5&pid=1.7" width="200" alt="picture of Celery"> </td> </tr>
+      <tr> <td> <span style="color:red">Bell Peppers </span> </td>
+	    <td> 8.0/10 </td> <td> <img src="https://th.bing.com/th/id/OIP.KrnQ6x49V3N2EXQdpOg1kwHaHa?w=200&h=200&c=7&r=0&o=5&dpr=1.5&pid=1.7" width="200" alt="picture of Bell Peppers"> </td> </tr>
+    </table>
+   
+      <h4><img src="https://th.bing.com/th/id/OIP.c2Xxc1VtBh3wHZCw8-jv9QHaJ4?w=195&h=260&c=7&r=0&o=5&dpr=1.5&pid=1.7" alt="Chicken Alfredo"></h4>
+
+
+
+
+
+
+
+
+
+
+  </body>
+</html>
